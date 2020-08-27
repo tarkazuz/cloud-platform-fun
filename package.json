@@ -12,7 +12,7 @@
     "url": "https://github.tools.sap/cloud-curriculum/exercise-code-nodejs.git"
   },
   "devDependencies": {
-    "mocha": "^8.0.1",
+    "mocha": "^8.1.2",
     "nodemon": "^2.0.4",
     "supertest": "^4.0.2"
   }
