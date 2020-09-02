@@ -1,6 +1,0 @@
-applications:
-- name: dummy-app-nodejs
-  memory: 80MB
-  command: npm start
-  buildpacks:
-    - https://github.com/cloudfoundry/nodejs-buildpack
