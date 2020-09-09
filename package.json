@@ -3,15 +3,25 @@
   "version": "1.0.0",
   "description": "This repository contains the code / starting points that match the topics in the [material repository](https://github.tools.sap/cloud-curriculum/material).",
   "scripts": {
-    "watch": "nodemon src/main.js",
     "start": "node src/main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:watch": "nodemon src/main.js",
+    "test": "node node_modules/mocha/bin/mocha",
+    "test:debug": "node --inspect node_modules/mocha/bin/mocha",
+    "migrate-up": "db-migrate up",
+    "migrate-down": "db-migrate down"
   },
   "repository": {
     "type": "git",
     "url": "https://github.tools.sap/cloud-curriculum/exercise-code-nodejs.git"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "db-migrate": "^0.11.11",
+    "db-migrate-pg": "^1.2.2",
+    "express": "^4.17.1",
+    "pg": "^8.3.3"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.3",
+    "supertest": "^4.0.2"
   }
 }

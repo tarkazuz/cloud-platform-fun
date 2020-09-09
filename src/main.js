@@ -1,8 +1,9 @@
-'use strict'
+'use strict';
 
-const ExpressServer = require('./express-server')
+const createApp = require('./app');
+const FortuneCookieService = require('./fortune-cookie-service');
 
-const PORT_DEFAULT = 8080
-const server = new ExpressServer()
+//TODO get URI from environment instead
+const uri = 'postgres://postgres@localhost/postgres';
 
-server.start(process.env.PORT || PORT_DEFAULT)
+createApp(new FortuneCookieService(uri)).listen(process.env.PORT || 3000);
