@@ -1,22 +1,3 @@
-If you throw a New Year's Party, the worst thing that you can do would
-be to throw the kind of party where your guests wake up today, and call
-you to say they had a nice time.  Now you'll be be expected to throw
-another party next year.
-
-What you should do is throw the kind of party where your guest wake up
-several days from now and call their lawyers to find out if they've
-been indicted for anything.  You want your guests to be so anxious to
-avoid a recurrence of your party that they immediately start planning
-parties of their own, a year in advance, just to prevent you from
-having another one ...
-
-If your party is successful, the police will knock on your door, unless
-your party is very successful in which case they will lob tear gas
-through your living room window.  As host, your job is to make sure
-that they don't arrest anybody.  Or if they're dead set on arresting
-someone, your job is to make sure it isn't you ...
-	-- Dave Barry
-~~~~~
 Go placidly amid the noise and waste, and remember what value there may
 be in owning a piece thereof.
 		-- National Lampoon, "Deteriorata"
@@ -37,45 +18,8 @@ wish you weren't.
 ~~~~~
 We'll cross out that bridge when we come back to it later.
 ~~~~~
-After [Benjamin] Franklin came a herd of Electrical Pioneers whose
-names have become part of our electrical terminology: Myron Volt, Mary
-Louise Amp, James Watt, Bob Transformer, etc.  These pioneers conducted
-many important electrical experiments.  For example, in 1780 Luigi
-Galvani discovered (this is the truth) that when he attached two
-different kinds of metal to the leg of a frog, an electrical current
-developed and the frog's leg kicked, even though it was no longer
-attached to the frog, which was dead anyway.  Galvani's discovery led
-to enormous advances in the field of amphibian medicine.  Today,
-skilled veterinary surgeons can take a frog that has been seriously
-injured or killed, implant pieces of metal in its muscles, and watch it
-hop back into the pond just like a normal frog, except for the fact
-that it sinks like a stone.
-		-- Dave Barry, "What is Electricity?"
-~~~~~
-This land is made of mountains,
-This land is made of mud,
-This land has lots of everything,
-For me and Elmer Fudd.
-
-This land has lots of trousers,
-This land has lots of mousers,
-And pussycats to eat them
-When the sun goes down.
-~~~~~
 Now this is a totally brain damaged algorithm.  Gag me with a smurfette.
 		-- P. Buhr, Computer Science 354
-~~~~~
-Everyone knows that dragons don't exist.  But while this simplistic
-formulation may satisfy the layman, it does not suffice for the
-scientific mind.  The School of Higher Neantical Nillity is in fact
-wholly unconcerned with what ____does exist.  Indeed, the banality of
-existence has been so amply demonstrated, there is no need for us to
-discuss it any further here.  The brilliant Cerebron, attacking the
-problem analytically, discovered three distinct kinds of dragon: the
-mythical, the chimerical, and the purely hypothetical.  They were all,
-one might say, nonexistent, but each nonexisted in an entirely
-different way ...
-		-- Stanislaw Lem, "Cyberiad"
 ~~~~~
 Once ... in the wilds of Afghanistan, I lost my corkscrew, and we were
 forced to live on nothing but food and water for days.
@@ -181,40 +125,12 @@ While money doesn't buy love, it puts you in a great bargaining position.
 ~~~~~
 I didn't know it was impossible when I did it.
 ~~~~~
-Proposed Additions to the PDP-11 Instruction Set:
-
-BBW	Branch Both Ways
-BEW	Branch Either Way
-BBBF	Branch on Bit Bucket Full
-BH	Branch and Hang
-BMR	Branch Multiple Registers
-BOB	Branch On Bug
-BPO	Branch on Power Off
-BST	Backspace and Stretch Tape
-CDS	Condense and Destroy System
-CLBR	Clobber Register
-CLBRI	Clobber Register Immediately
-CM	Circulate Memory
-CMFRM	Come From -- essential for truly structured programming
-CPPR	Crumple Printer Paper and Rip
-CRN	Convert to Roman Numerals
-~~~~~
 The streets are safe in Philadelphia, it's only the people who make
 them unsafe.
 		-- Mayor Frank Rizzo
 ~~~~~
 Democracy is good.  I say this because other systems are worse.
 		-- Jawaharlal Nehru
-~~~~~
-"Somewhere", said Father Vittorini, "did Blake not speak of the
-Machineries of Joy?  That is, did not God promote environments, then
-intimidate these Natures by provoking the existence of flesh, toy men
-and women, such as are we all?  And thus happily sent forth, at our
-best, with good grace and fine wit, on calm noons, in fair climes, are
-we not God's Machineries of Joy?"
-
-"If Blake said that", said Father Brian, "he never lived in Dublin."
-		-- R. Bradbury, "The Machineries of Joy"
 ~~~~~
 Some people live life in the fast lane.  You're in oncoming traffic.
 ~~~~~
@@ -342,18 +258,6 @@ FE buckets of bits on the bus
 
 ad infinitum...
 ~~~~~
-It appears that after his death, Albert Einstein found himself working
-as the doorkeeper at the Pearly Gates.  One slow day, he found that he
-had time to chat with the new entrants.  To the first one he asked,
-"What's your IQ?"  The new arrival replied, "190".  They discussed
-Einstein's theory of relativity for hours.  When the second new arrival
-came, Einstein once again inquired as to the newcomer's IQ.  The answer
-this time came "120".  To which Einstein replied, "Tell me, how did the
-Cubs do this year?" and they proceeded to talk for half an hour or so.
-To the final arrival, Einstein once again posed the question, "What's
-your IQ?".  Upon receiving the answer "70", Einstein smiled and asked,
-"Got a minute to tell me about VMS 4.0?"
-~~~~~
 Heuristics are bug ridden by definition.  If they didn't have bugs,
 then they'd be algorithms.
 ~~~~~
@@ -378,44 +282,10 @@ writing.
 Love thy neighbor as thyself, but choose your neighborhood.
 		-- Louise Beal
 ~~~~~
-	Before he became a hermit, Zarathud was a young Priest, and
-took great delight in making fools of his opponents in front of his
-followers.
-	One day Zarathud took his students to a pleasant pasture and
-there he confronted The Sacred Chao while She was contentedly grazing.
-	"Tell me, you dumb beast," demanded the Priest in his
-commanding voice, "why don't you do something worthwhile?  What is your
-Purpose in Life, anyway?"
-	Munching the tasty grass, The Sacred Chao replied "MU".  (The
-Chinese ideogram for NO-THING.)
-	Upon hearing this, absolutely nobody was enlightened.
-	Primarily because nobody understood Chinese.
-		-- Camden Benares, "Zen Without Zen Masters"
-~~~~~
 Sure he's sharp as a razor ... he's a two-dimensional pinhead!
 ~~~~~
 I shot an arrow into the air, and it stuck.
 		-- Graffito in Los Angeles
-~~~~~
-An excellence-oriented '80s male does not wear a regular watch.  He
-wears a Rolex watch, because it weighs nearly six pounds and is
-advertised only in excellence-oriented publications such as Fortune and
-Rich Protestant Golfer Magazine.  The advertisements are written in
-incomplete sentences, which is how advertising copywriters denote
-excellence:
-
-"The Rolex Hyperion.  An elegant new standard in quality excellence and
-discriminating handcraftsmanship.  For the individual who is truly able
-to discriminate with regard to excellent quality standards of crafting
-things by hand.  Fabricated of 100 percent 24-karat gold.  No watch
-parts or anything.  Just a great big chunk on your wrist.  Truly a
-timeless statement.  For the individual who is very secure.  Who
-doesn't need to be reminded all the time that he is very successful.
-Much more successful than the people who laughed at him in high
-school.  Because of his acne.  People who are probably nowhere near as
-successful as he is now.  Maybe he'll go to his 20th reunion, and
-they'll see his Rolex Hyperion.  Hahahahahahahahaha."
-		-- Dave Barry, "In Search of Excellence"
 ~~~~~
 Life is a yo-yo, and mankind ties knots in the string.
 ~~~~~
@@ -424,21 +294,6 @@ vinyl.
 		-- Dave Barry
 ~~~~~
 Join the march to save individuality!
-~~~~~
-Once Law was sitting on the bench
-	And Mercy knelt a-weeping.
-"Clear out!" he cried, "disordered wench!
-	Nor come before me creeping.
-Upon your knees if you appear,
-'Tis plain you have no standing here."
-
-Then Justice came.  His Honor cried:
-	"YOUR states? -- Devil seize you!"
-"Amica curiae," she replied --
-	"Friend of the court, so please you."
-"Begone!" he shouted -- "There's the door --
-I never saw your face before!"
-		-- Ambrose Bierce, "The Devil's Dictionary"
 ~~~~~
 Thank goodness modern convenience is a thing of the remote future.
 		-- Pogo, by Walt Kelly
@@ -458,18 +313,6 @@ applications.)
 ~~~~~
 I profoundly believe it takes a lot of practice to become a moral slob.
 		-- William F. Buckley
-~~~~~
-The ladies men admire, I've heard,
-Would shudder at a wicked word.
-Their candle gives a single light;
-They'd rather stay at home at night.
-They do not keep awake till three,
-Nor read erotic poetry.
-They never sanction the impure,
-Nor recognize an overture.
-They shrink from powders and from paints...
-So far, I've had no complaints.
-		-- Dorothy Parker
 ~~~~~
 "Apathy is not the problem, it's the solution"
 ~~~~~
@@ -498,24 +341,6 @@ Don't be humble ... you're not that great.
 "It means summon's in trouble."
 		-- Rocky and Bullwinkle
 ~~~~~
-	A master was explaining the nature of Tao to one of his
-novices.  "The Tao is embodied in all software -- regardless of how
-insignificant," said the master.
-
-	"Is Tao in a hand-held calculator?" asked the novice.
-
-	"It is," came the reply.
-
-	"Is the Tao in a video game?" continued the novice.
-
-	"It is even in a video game," said the master.
-
-	"And is the Tao in the DOS for a personal computer?"
-
-	The master coughed and shifted his position slightly.  "The
-lesson is over for today," he said.
-		-- "The Tao of Programming"
-~~~~~
 All programmers are playwrights and all computers are lousy actors.
 ~~~~~
 God is a comic playing to an audience that's afraid to laugh.
@@ -541,13 +366,6 @@ hope of greening the landscape of idea.
 Magnocartic, adj.:
 	Any automobile that, when left unattended, attracts shopping carts.
 		-- Sniglets, "Rich Hall & Friends"
-~~~~~
-Fortune's Real-Life Courtroom Quote #18:
-
-Q:  Are you married?
-A:  No, I'm divorced.
-Q:  And what did your husband do before you divorced him?
-A:  A lot of things I didn't know about.
 ~~~~~
 May Euell Gibbons eat your only copy of the manual!
 ~~~~~
@@ -582,22 +400,9 @@ Real programmers don't draw flowcharts.  Flowcharts are, after all, the
 illiterate's form of documentation.  Cavemen drew flowcharts; look how
 much good it did them.
 ~~~~~
-One man's brain plus one other will produce one half as many ideas as
-one man would have produced alone.  These two plus two more will
-produce half again as many ideas.  These four plus four more begin to
-represent a creative meeting, and the ratio changes to one quarter as
-many ...
-		-- Anthony Chevins
-~~~~~
 I don't like spinach, and I'm glad I don't, because if I liked it I'd
 eat it, and I just hate it.
 		-- Clarence Darrow
-~~~~~
-One of the rules of Busmanship, New York style, is never surrender your
-seat to another passenger.  This may seem callous, but it is the best
-way, really.  If one passenger were to give a seat to someone who
-fainted in the aisle, say, the others on the bus would become
-disoriented and imagine they were in Topeka, Kansas.
 ~~~~~
 Scrubbing floors and emptying bedpans has as much dignity as the
 Presidency.
@@ -619,37 +424,9 @@ example.
 Remember, drive defensively!  And of course, the best defense is a good
 offense!
 ~~~~~
-Frobnitz, pl. Frobnitzem (frob'nitsm) n.:
-	An unspecified physical object, a widget.  Also refers to
-electronic black boxes.  This rare form is usually abbreviated to
-FROTZ, or more commonly to FROB.  Also used are FROBNULE, FROBULE, and
-FROBNODULE.  Starting perhaps in 1979, FROBBOZ (fruh-bahz'), pl.
-FROBBOTZIM, has also become very popular, largely due to its exposure
-via the Adventure spin-off called Zork (Dungeon).  These can also be
-applied to non-physical objects, such as data structures.
-~~~~~
 Banectomy, n.:
 	The removal of bruises on a banana.
 		-- Rich Hall, "Sniglets"
-~~~~~
-	 A Plan for the Improvement of English Spelling
-			  by Mark Twain
-
-	For example, in Year 1 that useless letter "c" would be dropped
-to be replased either by "k" or "s", and likewise "x" would no longer
-be part of the alphabet.  The only kase in which "c" would be retained
-would be the "ch" formation, which will be dealt with later.  Year 2
-might reform "w" spelling, so that "which" and "one" would take the
-same konsonant, wile Year 3 might well abolish "y" replasing it with
-"i" and Iear 4 might fiks the "g/j" anomali wonse and for all.
-	Jenerally, then, the improvement would kontinue iear bai iear
-with Iear 5 doing awai with useless double konsonants, and Iears 6-12
-or so modifaiing vowlz and the rimeining voist and unvoist konsonants.
-Bai Iear 15 or sou, it wud fainali bi posibl tu meik ius ov thi
-ridandant letez "c", "y" and "x" -- bai now jast a memori in the maindz
-ov ould doderez -- tu riplais "ch", "sh", and "th" rispektivli.
-	Fainali, xen, aafte sam 20 iers ov orxogrefkl riform, wi wud
-hev a lojikl, kohirnt speling in ius xrewawt xe Ingliy-spiking werld.
 ~~~~~
 I've seen better heads on half a pint of beer.
 ~~~~~
@@ -690,26 +467,6 @@ The number of arguments is unimportant unless some of them are
 correct.
 		-- Ralph Hartley
 ~~~~~
-God gives burdens; also shoulders
-
-Jimmy Carter cited this Jewish saying in his concession speech at the
-end of the 1980 election.  At least he said it was a Jewish saying; I
-can't find it anywhere.  I'm sure he's telling the truth though; why
-would he lie about a thing like that?
-		-- Arthur Naiman, "Every Goy's Guide to Yiddish"
-~~~~~
-Nasrudin called at a large house to collect for charity.  The servant
-said "My master is out."  Nasrudin replied, "Tell your master that next
-time he goes out, he should not leave his face at the window.  Someone
-might steal it."
-~~~~~
-I am, in point of fact, a particularly haughty and exclusive person,
-of pre-Adamite ancestral descent.  You will understand this when I tell
-you that I can trace my ancestry back to a protoplasmal primordial
-atomic globule.  Consequently, my family pride is something
-inconceivable.  I can't help it.  I was born sneering.
-		-- Pooh-Bah, "The Mikado", Gilbert & Sullivan
-~~~~~
 There was a young lady from Hyde
 Who ate a green apple and died.
 	While her lover lamented
@@ -719,21 +476,6 @@ And made cider inside her inside.
 Baseball is a skilled game.  It's America's game -- it, and high
 taxes.
 		-- Will Rogers
-~~~~~
-		(to "The Caissons Go Rolling Along")
-Scratch the disks, dump the core,	Shut it down, pull the plug
-Roll the tapes across the floor,	Give the core an extra tug
-And the system is going to crash.	And the system is going to crash.
-Teletypes smashed to bits.		Mem'ry cards, one and all,
-Give the scopes some nasty hits		Toss out halfway down the hall
-And the system is going to crash.	And the system is going to crash.
-And we've also found			Just flip one switch
-When you turn the power down,		And the lights will cease to twitch
-You turn the disk readers into trash.	And the tape drives will crumble
-						in a flash.
-Oh, it's so much fun,			When the CPU
-Now the CPU won't run			Can print nothing out but "foo,"
-And the system is going to crash.	The system is going to crash.
 ~~~~~
 Trying to be happy is like trying to build a machine for which the only
 specification is that it should run noiselessly.
@@ -765,17 +507,6 @@ his wife most often reminds him to act it.
 Nuclear war can ruin your whole compile.
 		-- Karl Lehenbauer
 ~~~~~
-		OUTCONERR
-Twas FORTRAN as the doloop goes
-	Did logzerneg the ifthen block
-All kludgy were the function flows
-	And subroutines adhoc.
-
-Beware the runtime-bug my friend
-	squrooneg, the false goto
-Beware the infiniteloop
-	And shun the inprectoo.
-~~~~~
 It's a damn poor mind that can only think of one way to spell a word.
 		-- Andrew Jackson
 ~~~~~
@@ -795,39 +526,11 @@ Now this is a totally brain damaged algorithm.  Gag me with a smurfette.
 ~~~~~
 "But I don't like Spam!!!!"
 ~~~~~
-"In short, _N is Richardian if, and only if, _N is not Richardian."
-~~~~~
 Klein bottle for sale ... inquire within.
-~~~~~
-"You are old, father William," the young man said,
-	"And your hair has become very white;
-And yet you incessantly stand on your head --
-	Do you think, at your age, it is right?"
-
-"In my youth," father William replied to his son,
-	"I feared it might injure the brain;
-But, now that I'm perfectly sure I have none,
-	Why, I do it again and again."
-		-- Lewis Carroll
 ~~~~~
 Have you ever noticed that the people who are always trying to tell
 you, "There's a time for work and a time for play," never find the time
 for play?
-~~~~~
-Speak roughly to your little boy,
-	And beat him when he sneezes:
-He only does it to annoy
-	Because he knows it teases.
-
-	Wow!  wow!  wow!
-
-I speak severely to my boy,
-	And beat him when he sneezes:
-For he can thoroughly enjoy
-	The pepper when he pleases!
-
-	Wow!  wow!  wow!
-		-- Lewis Carroll, "Alice in Wonderland"
 ~~~~~
 All this wheeling and dealing around, why, it isn't for money, it's for
 fun.  Money's just the way we keep score.
@@ -865,17 +568,6 @@ Not Hercules could have knock'd out his brains, for he had none.
 The longer I am out of office, the more infallible I appear to myself.
 		-- Henry Kissinger
 ~~~~~
-How doth the little crocodile
-	Improve his shining tail,
-And pour the waters of the Nile
-	On every golden scale!
-
-How cheerfully he seems to grin,
-	How neatly spreads his claws,
-And welcomes little fishes in,
-	With gently smiling jaws!
-		-- Lewis Carroll, "Alice in Wonderland"
-~~~~~
 Once ... in the wilds of Afghanistan, I lost my corkscrew, and we were
 forced to live on nothing but food and water for days.
 		-- W. C. Fields, "My Little Chickadee"
@@ -892,14 +584,6 @@ Anthony's Law of Force:
 Idiot, n.:
 	A member of a large and powerful tribe whose influence in human
 	affairs has always been dominant and controlling.
-		-- Ambrose Bierce, "The Devil's Dictionary"
-~~~~~
-Molecule, n.:
-	The ultimate, indivisible unit of matter.  It is distinguished from
-	the corpuscle, also the ultimate, indivisible unit of matter, by a
-	closer resemblance to the atom, also the ultimate, indivisible unit
-	of matter... The ion differs from the molecule, the corpuscle and
-	the atom in that it is an ion ...
 		-- Ambrose Bierce, "The Devil's Dictionary"
 ~~~~~
 The conservation movement is a breeding ground of Communists and other
@@ -937,58 +621,17 @@ That woman speaks eight languages and can't say "no" in any of them.
 ~~~~~
 Those who can't write, write manuals.
 ~~~~~
-Etymology, n.:
-	Some early etymological scholars came up with derivations that
-	were hard for the public to believe.  The term "etymology" was
-	formed from the Latin "etus" ("eaten"), the root "mal" ("bad"),
-	and "logy" ("study of").  It meant "the study of things that are
-	hard to swallow."
-		-- Mike Kellen
-~~~~~
 Probable-Possible, my black hen,
 She lays eggs in the Relative When.
 She doesn't lay eggs in the Positive Now
 Because she's unable to postulate how.
 		-- Frederick Winsor
 ~~~~~
-Why You Can't Run When There's Trouble in the Office:
-	No matter where you stand, no matter how far or fast you flee,
-when it hits the fan, as much as possible will be propelled in your
-direction, and almost none will be returned to the source.
-		-- John L.  Shelton
-~~~~~
-One promising concept that I came up with right away was that you could
-manufacture personal air bags, then get a law passed requiring that
-they be installed on congressmen to keep them from taking trips.  Let's
-say your congressman was trying to travel to Paris to do a fact-finding
-study on how the French government handles diseases transmitted by
-sherbet.  Just when he got to the plane, his mandatory air bag,
-strapped around his waist, would inflate -- FWWAAAAAAPPPP -- thus
-rendering him too large to fit through the plane door.  It could also
-be rigged to inflate whenever the congressman proposed a law.  ("Mr.
-Speaker, people ask me, why should October be designated as Cuticle
-Inspection Month?  And I answer that FWWAAAAAAPPPP.") This would save
-millions of dollars, so I have no doubt that the public would violently
-support a law requiring airbags on congressmen.  The problem is that
-your potential market is very small: there are only around 500 members
-of Congress, and some of them, such as House Speaker "Tip" O'Neil, are
-already too large to fit on normal aircraft.
-		-- Dave Barry, "'Mister Mediocre' Restaurants"
-~~~~~
 Love is a snowmobile racing across the tundra and then suddenly it
 flips over, pinning you underneath.  At night, the ice weasels come.
 		-- Matt Groening, "Love is Hell"
 ~~~~~
 Perfect day for scrubbing the floor and other exciting things.
-~~~~~
-United Nations, New York, December 25.  The peace and joy of the
-Christmas season was marred by a proclamation of a general strike of
-all the military forces of the world.  Panic reigns in the hearts of
-all the patriots of every persuasion.
-
-Meanwhile, fears of universal disaster sank to an all-time low over the
-world.
-		-- Isaac Asimov
 ~~~~~
 Old soldiers never die.  Young ones do.
 ~~~~~
@@ -1035,17 +678,6 @@ Hofstadter's Law:
 	It always takes longer than you expect, even when you take
 	Hofstadter's Law into account.
 ~~~~~
-"You are old, father William," the young man said,
-	"And your hair has become very white;
-And yet you incessantly stand on your head --
-	Do you think, at your age, it is right?"
-
-"In my youth," father William replied to his son,
-	"I feared it might injure the brain;
-But, now that I'm perfectly sure I have none,
-	Why, I do it again and again."
-		-- Lewis Carroll
-~~~~~
 Just because your doctor has a name for your condition doesn't mean he
 knows what it is.
 ~~~~~
@@ -1062,19 +694,6 @@ He's the kind of guy, that, well, if you were ever in a jam he'd be
 there ... with two slices of bread and some chunky peanut butter.
 ~~~~~
 Don't tell any big lies today.  Small ones can be just as effective.
-~~~~~
-Lassie looked brilliant, in part because the farm family she lived with
-was made up of idiots.  Remember?  One of them was always getting
-pinned under the tractor, and Lassie was always rushing back to the
-farmhouse to alert the other ones.  She'd whimper and tug at their
-sleeves, and they'd always waste precious minutes saying things: "Do
-you think something's wrong?  Do you think she wants us to follow her?
-What is it, girl?", etc., as if this had never happened before, instead
-of every week.  What with all the time these people spent pinned under
-the tractor, I don't see how they managed to grow any crops
-whatsoever.  They probably got by on federal crop supports, which
-Lassie filed the applications for.
-		-- Dave Barry
 ~~~~~
 Who messed with my anti-paranoia shot?
 ~~~~~
@@ -1095,32 +714,6 @@ funnier.
 The way to make a small fortune in the commodities market is to start
 with a large fortune.
 ~~~~~
-Magnet, n.: Something acted upon by magnetism
-
-Magnetism, n.: Something acting upon a magnet.
-
-The two definitions immediately preceding are condensed from the works
-of one thousand eminent scientists, who have illuminated the subject
-with a great white light, to the inexpressible advancement of human
-knowledge.
-		-- Ambrose Bierce, "The Devil's Dictionary"
-~~~~~
-A is for AMY who fell down the stairs, B is for BASIL assaulted by bears.
-C is for CLARA who wasted away, D is for DESMOND thrown out of a sleigh.
-E is for ERNEST who choked on a peach, F is for FANNY sucked dry by a leech.
-G is for GEORGE smothered under a rug, H is for HECTOR done in by a thug.
-I is for IDA who drowned in a lake, J is for JAMES who took lye by mistake.
-K is for KATE who was struck with an axe, L is for LEO who swallowed some tacks.
-M is for MAUD who was swept out to sea, N is for NEVILLE who died of ennui.
-O is for OLIVE run through with an awl, P is for PRUE trampled flat in a brawl.
-Q is for QUENTIN who sank in a mire, R is for RHODA consumed by a fire.
-S is for SUSAN who perished of fits, T is for TITUS who flew into bits.
-U is for UNA who slipped down a drain, V is for VICTOR squashed under a train.
-W is for WINNIE embedded in ice, X is for XERXES devoured by mice.
-Y is for YORICK whose head was knocked in,
-Z is for ZILLAH who drank too much gin.
-		-- Edward Gorey, "The Gashlycrumb Tinies"
-~~~~~
 Chef, n.:
 	Any cook who swears in French.
 ~~~~~
@@ -1129,44 +722,10 @@ Idiot Box, n.:
 	stamp when they can't quite figure it out for themselves.
 		-- Rich Hall, "Sniglets"
 ~~~~~
-The basic menu item, in fact the ONLY menu item, would be a food unit
-called the "patty," consisting of -- this would be guaranteed in
-writing -- "100 percent animal matter of some kind."  All patties would
-be heated up and then cooled back down in electronic devices
-immediately before serving.  The Breakfast Patty would be a patty on a
-bun with lettuce, tomato, onion, egg, Ba-Ko-Bits, Cheez Whiz, a Special
-Sauce made by pouring ketchup out of a bottle and a little slip of
-paper stating: "Inspected by Number 12".  The Lunch or Dinner Patty
-would be any Breakfast Patties that didn't get sold in the morning.
-The Seafood Lover's Patty would be any patties that were starting to
-emit a serious aroma.  Patties that were too rank even to be Seafood
-Lover's Patties would be compressed into wads and sold as "Nuggets."
-		-- Dave Barry, "'Mister Mediocre' Restaurants"
-~~~~~
 Nothing recedes like success.
 		-- Walter Winchell
 ~~~~~
 A bird in the hand is worth what it will bring.
-~~~~~
-No plain fanfold paper could hold that fractal Puff --
-He grew so fast no plotting pack could shrink him far enough.
-Compiles and simulations grew so quickly tame
-And swapped out all their data space when Puff pushed his stack frame.
-CHORUS:
-	Puff the fractal dragon was written in C,
-	And frolicked while processes switched in mainframe memory.
-	Puff the fractal dragon was written in C,
-	And frolicked while processes switched in mainframe memory.
-Puff, he grew so quickly, while others moved like snails
-And mini-Puffs would perch themselves on his gigantic tail.
-All the student hackers loved that fractal Puff
-But DCS did not like Puff, and finally said, "Enough!"
-		(chorus)
-Puff used more resources than DCS could spare.
-The operator killed Puff's job -- he didn't seem to care.
-A gloom fell on the hackers; it seemed to be the end,
-But Puff trapped the exception, and grew from naught again!
-		(chorus)
 ~~~~~
 Lactomangulation, n.:
 	Manhandling the "open here" spout on a milk carton so badly
@@ -1200,14 +759,6 @@ curtain was up.
 ~~~~~
 "I'd love to go out with you, but I never go out on days that end in
 `Y.'"
-~~~~~
-Scotty:	Captain, we din' can reference it!
-Kirk:	Analysis, Mr. Spock?
-Spock:	Captain, it doesn't appear in the symbol table.
-Kirk:	Then it's of external origin?
-Spock:	Affirmative.
-Kirk:	Mr. Sulu, go to pass two.
-Sulu:	Aye aye, sir, going to pass two.
 ~~~~~
 "Plaese porrf raed."
 		-- Prof. Michael O'Longhlin, S.U.N.Y. Purchase
@@ -1256,41 +807,7 @@ tuned."
 Age before beauty; and pearls before swine.
 		-- Dorothy Parker
 ~~~~~
-		The STAR WARS Song
-	Sung to the tune of "Lola", by the Kinks:
-
-I met him in a swamp down in Dagobah
-Where it bubbles all the time like a giant cabinet soda
-	S-O-D-A soda
-I saw the little runt sitting there on a log
-I asked him his name and in a raspy voice he said Yoda
-	Y-O-D-A Yoda, Yo-Yo-Yo-Yo Yoda
-
-Well I've been around but I ain't never seen
-A guy who looks like a Muppet but he's wrinkled and green
-	Oh my Yoda, Yo-Yo-Yo-Yo Yoda
-Well I'm not dumb but I can't understand
-How he can raise me in the air just by raising his hand
-	Oh my Yoda, Yo-Yo-Yo-Yo Yoda, Yo-Yo-Yo-Yo Yoda
-~~~~~
 Keep emotionally active.  Cater to your favorite neurosis.
-~~~~~
-Tertullian was born in Carthage somewhere about 160 A.D.  He was a
-pagan, and he abandoned himself to the lascivious life of his city
-until about his 35th year, when he became a Christian .... To him is
-ascribed the sublime confession: Credo quia absurdum est (I believe
-because it is absurd).  This does not altogether accord with historical
-fact, for he merely said:
-
-	"And the Son of God died, which is immediately credible because
-	it is absurd.  And buried he rose again, which is certain
-	because it is impossible."
-
-Thanks to the acuteness of his mind, he saw through the poverty of
-philosophical and Gnostic knowledge, and contemptuously rejected it.
-		-- C. G. Jung, in Psychological Types
-
-(Tertullian was one of the founders of the Catholic Church).
 ~~~~~
 The makers may make
 And the users may use,
@@ -1298,21 +815,6 @@ But the fixers must fix
 With but minimal clues
 ~~~~~
 If God had intended Men to Smoke, He would have put Chimneys in their Heads.
-~~~~~
-So she went into the garden to cut a cabbage leaf to make an apple
-pie; and at the same time a great she-bear, coming up the street pops
-its head into the shop. "What! no soap?"  So he died, and she very
-imprudently married the barber; and there were present the Picninnies,
-and the Grand Panjandrum himself, with the little round button at top,
-and they all fell to playing the game of catch as catch can, till the
-gunpowder ran out at the heels of their boots.
-		-- Samuel Foote
-~~~~~
-I see the eigenvalue in thine eye,
-I hear the tender tensor in thy sigh.
-Bernoulli would have been content to die
-Had he but known such _a-squared cos 2(phi)!
-		-- Stanislaw Lem, "Cyberiad"
 ~~~~~
 It is easier to change the specification to fit the program than vice versa.
 ~~~~~
@@ -1349,30 +851,11 @@ Even though they raised the rate for first class mail in the United
 States we really shouldn't complain -- it's still only two cents a
 day.
 ~~~~~
-United Nations, New York, December 25.  The peace and joy of the
-Christmas season was marred by a proclamation of a general strike of
-all the military forces of the world.  Panic reigns in the hearts of
-all the patriots of every persuasion.
-
-Meanwhile, fears of universal disaster sank to an all-time low over the
-world.
-		-- Isaac Asimov
-~~~~~
 I don't believe in astrology.  But then I'm an Aquarius, and Aquarians
 don't believe in astrology.
 		-- James R. F. Quirk
 ~~~~~
 VMS is like a nightmare about RSX-11M.
-~~~~~
-In the space of one hundred and seventy-six years the Mississippi has
-shortened itself two hundred and forty-two miles.  Therefore ... in the
-Old Silurian Period the Mississippi River was upward of one million
-three hundred thousand miles long ... seven hundred and forty-two years
-from now the Mississippi will be only a mile and three-quarters long.
-... There is something fascinating about science.  One gets such
-wholesome returns of conjecture out of such a trifling investment of
-fact.
-		-- Mark Twain
 ~~~~~
 Think of it!  With VLSI we can pack 100 ENIACs in 1 sq. cm.!
 ~~~~~
@@ -1381,30 +864,6 @@ If at first you don't succeed, give up.  No use being a damn fool.
 " ... I told my doctor I got all the exercise I needed being a
 pallbearer for all my friends who run and do exercises!"
 		-- Winston Churchill
-~~~~~
-`Just the place for a Snark!' the Bellman cried,
-	As he landed his crew with care;
-Supporting each man on the top of the tide
-	By a finger entwined in his hair.
-
-'Just the place for a Snark!  I have said it twice:
-	That alone should encourage the crew.
-Just the place for a Snark!  I have said it thrice:
-	What I tell you three times is true.'
-~~~~~
-Well, here it is, 1983, so it won't be long before you start reading a
-lot of boring stories about people like Vance Hartke.  Hartke is a
-governor or mayor or something from one of the flatter states, and the
-reason you'll be reading about him is that he's one of the 50 top
-contenders for the 1984 Democratic presidential nomination.  These men
-will spend the next 18 months going around the country engaging in the
-most degrading activities imaginable, such as wearing idiot hats and
-appearing on "Meet the Press".  "Meet the Press" is one of those Sunday
-morning public interest shows that the public is not the least bit
-interested in.  It features a panel of reporters who ask questions of a
-guest politician, who wins an Amana home freezer if he can get through
-the entire show without answering a single question ...
-		-- Dave Barry, "On Presidential Politics"
 ~~~~~
 Garbage In -- Gospel Out.
 ~~~~~
@@ -1415,46 +874,11 @@ Accident, n.:
 body is better.
 		-- Foolish Dictionary
 ~~~~~
-77.  HO HUM -- The Redundant
-
-------- (7)	This hexagram refers to a situation of extreme
---- --- (8)	boredom.  Your programs always bomb off.  Your wife
-------- (7)	smells bad.  Your children have hives.  You are working
----O--- (6)	on an accounting system, when you want to develop the
----X--- (9)	GREAT AMERICAN COMPILER.  You give up hot dates to
---- --- (8)	nurse sick computers.  What you need now is sex.
-
-Nine in the second place means:
-	The yellow bird approaches the malt shop.  Misfortune.
-
-Six in the third place means:
-	In former times men built altars to honor the Internal Revenue
-	Service.  Great Dragons!  Are you in trouble!
-~~~~~
-One of the oldest problems puzzled over in the Talmud is: "Why did God
-create goyim?"  The generally accepted answer is "________somebody has to buy
-retail."
-		-- Arthur Naiman, "Every Goy's Guide to Yiddish"
-~~~~~
-The geographical center of Boston is in Roxbury.  Due north of the
-center we find the South End.  This is not to be confused with South
-Boston which lies directly east from the South End.  North of the South
-End is East Boston and southwest of East Boston is the North End.
-~~~~~
 Fertility is hereditary.  If your parents didn't have any children,
 neither will you.
 ~~~~~
 Any time things appear to be going better, you have overlooked
 something.
-~~~~~
-I think that I shall never see
-A thing as lovely as a tree.
-But as you see the trees have gone
-They went this morning with the dawn.
-A logging firm from out of town
-Came and chopped the trees all down.
-But I will trick those dirty skunks
-And write a brand new poem called "Trunks".
 ~~~~~
 As long as war is regarded as wicked, it will always have its
 fascination.  When it is looked upon as vulgar, it will cease to be
@@ -1470,35 +894,6 @@ A nuclear war can ruin your whole day.
 ~~~~~
 Howe's Law:
 	Everyone has a scheme that will not work.
-~~~~~
-		Gimmie That Old Time Religion
-We will follow Zarathustra,		We will worship like the Druids,
-Zarathustra like we use to,		Dancing naked in the woods,
-I'm a Zarathustra booster,		Drinking strange fermented fluids,
-And he's good enough for me!		And it's good enough for me!
-	(chorus)				(chorus)
-
-In the church of Aphrodite,
-The priestess wears a see-through nightie,
-She's a mighty righteous sightie,
-And she's good enough for me!
-	(chorus)
-
-CHORUS:	Give me that old time religion,
-	Give me that old time religion,
-	Give me that old time religion,
-	'Cause it's good enough for me!
-~~~~~
-	Excellence is THE trend of the '80s.  Walk into any shopping
-mall bookstore, go to the rack where they keep the best-sellers such as
-"Garfield Gets Spayed", and you'll see a half-dozen books telling you
-how to be excellent: "In Search of Excellence", "Finding Excellence",
-"Grasping Hold of Excellence", "Where to Hide Your Excellence at Night
-So the Cleaning Personnel Don't Steal It", etc.
-		-- Dave Barry, "In Search of Excellence"
-~~~~~
-"It runs like _x, where _x is something unsavory"
-		-- Prof. Romas Aleliunas, CS 435
 ~~~~~
 Carmel, New York, has an ordinance forbidding men to wear coats and
 trousers that don't match.
@@ -1523,23 +918,6 @@ enough to travel.
 ~~~~~
 What this world needs is a good five-dollar plasma weapon.
 ~~~~~
-No proper program contains an indication which as an operator-applied
-occurrence identifies an operator-defining occurrence which as an
-indication-applied occurrence identifies an indication-defining
-occurrence different from the one identified by the given indication as
-an indication-applied occurrence.
-		-- ALGOL 68 Report
-~~~~~
-British Israelites:
-	The British Israelites believe the white Anglo-Saxons of
-Britain to be descended from the ten lost tribes of Israel deported by
-Sargon of Assyria on the fall of Sumeria in 721 B.C. ... They further
-believe that the future can be foretold by the measurements of the
-Great Pyramid, which probably means it will be big and yellow and in
-the hand of the Arabs.  They also believe that if you sleep with your
-head under the pillow a fairy will come and take all your teeth.
-		-- Mike Harding, "The Armchair Anarchist's Almanac"
-~~~~~
 F:	When into a room I plunge, I
 	Sometimes find some VIOLET FUNGI.
 	Then I linger, darkly brooding
@@ -1550,41 +928,6 @@ Spark's Sixth Rule for Managers:
 	If a subordinate asks you a pertinent question, look at him as
 if he had lost his senses.  When he looks down, paraphrase the question
 back at him.
-~~~~~
-		Safety Tips for the Post-Nuclear Existence
-		  Tip #1: How to tell when you are dead.
-
-(1) Little things start bothering you: little things like worms, bugs,
-    ants.
-(2) Something is missing in your personal relationships.
-(3) Your dog becomes overly affectionate.
-(4) You have a hard time getting a waiter.
-(5) Exotic birds flock around you.
-(6) People ignore you at parties.
-(7) You have a hard time getting up in the morning.
-(8) You no longer get off on cocaine.
-~~~~~
-Nine megs for the secretaries fair,
-Seven megs for the hackers scarce,
-Five megs for the grads in smoky lairs,
-Three megs for system source;
-
-One disk to rule them all,
-One disk to bind them,
-One disk to hold the files
-And in the darkness grind 'em.
-~~~~~
-Friends, Romans, Hipsters,
-Let me clue you in;
-I come to put down Caesar, not to groove him.
-The square kicks some cats are on stay with them;
-The hip bits, like, go down under; so let it lay with Caesar.  The cool Brutus
-Gave you the message: Caesar had big eyes;
-If that's the sound, someone's copping a plea,
-And, like, old Caesar really set them straight.
-Here, copacetic with Brutus and the studs, -- for Brutus is a real cool cat;
-So are they all, all cool cats, --
-Come I to make this gig at Caesar's laying down.
 ~~~~~
 Why don't elephants eat penguins ?
 
@@ -1611,19 +954,6 @@ MERCUTIO: No, 'tis not so deep as a well, nor so wide as a church-
 If I had only known, I would have been a locksmith.
 		-- Albert Einstein
 ~~~~~
-	After his Ignoble Disgrace, Satan was being expelled from
-Heaven.  As he passed through the Gates, he paused a moment in thought,
-and turned to God and said, "A new creature called Man, I hear, is soon
-to be created."
-	"This is true," He replied.
-	"He will need laws," said the Demon slyly.
-	"What!  You, his appointed Enemy for all Time!  You ask for the
-right to make his laws?"
-	"Oh, no!"  Satan replied, "I ask only that he be allowed to
-make his own."
-	It was so granted.
-		-- Ambrose Bierce, "The Devil's Dictionary"
-~~~~~
 Take your dying with some seriousness, however.  Laughing on the way to
 your execution is not generally understood by less advanced life forms,
 and they'll call you crazy.
@@ -1636,25 +966,10 @@ An apple every eight hours will keep three doctors away.
 I went to the race track once and bet on a horse that was so good that
 it took seven others to beat him!
 ~~~~~
-Politician, n.:
-	An eel in the fundamental mud upon which the superstructure of
-	organized society is reared.  When he wriggles, he mistakes the
-	agitation of his tail for the trembling of the edifice.  As compared
-	with the statesman, he suffers the disadvantage of being alive.
-		-- Ambrose Bierce, "The Devil's Dictionary"
-~~~~~
 It would be nice if the Food and Drug Administration stopped issuing
 warnings about toxic substances and just gave me the names of one or
 two things still safe to eat.
 		-- Robert Fuoss
-~~~~~
-Fourth Law of Applied Terror:
-	The night before the English History mid-term, your Biology
-	instructor will assign 200 pages on planaria.
-
-Corollary:
-	Every instructor assumes that you have nothing else to do
-	except study for that instructor's course.
 ~~~~~
 If you eat a live frog in the morning, nothing worse will happen to
 either of you for the rest of the day.
@@ -1692,8 +1007,6 @@ Mickey Mouse wears a Spiro Agnew watch.
 Hark, the Herald Tribune sings,
 Advertising wondrous things.
 		-- Tom Lehrer
-~~~~~
-This is the ____LAST time I take travel suggestions from Ray Bradbury!
 ~~~~~
 Slick's Three Laws of the Universe:
 	(1) Nothing in the known universe travels faster than a bad
@@ -1758,49 +1071,9 @@ Did you know that clones never use mirrors?
 ~~~~~
 If you have to hate, hate gently.
 ~~~~~
-A Mexican newspaper reports that bored Royal Air Force pilots stationed
-on the Falkland Islands have devised what they consider a marvelous new
-game.  Noting that the local penguins are fascinated by airplanes, the
-pilots search out a beach where the birds are gathered and fly slowly
-along it at the water's edge.  Perhaps ten thousand penguins turn their
-heads in unison watching the planes go by, and when the pilots turn
-around and fly back, the birds turn their heads in the opposite
-direction, like spectators at a slow-motion tennis match.  Then, the
-paper reports, "The pilots fly out to sea and directly to the penguin
-colony and overfly it.  Heads go up, up, up, and ten thousand penguins
-fall over gently onto their backs.
-		-- Audubon Society Magazine
-
-[From the BBC, 2001-02-02:
-	For five weeks, a team from the British Antarctic Survey (BAS)
-monitored 1,000 king penguins on the island of South Georgia as Lynx
-helicopters passed overhead.
-	"Not one king penguin fell over when the helicopters came over,"
-said team leader Dr. Richard Stone.
-	"As the aircraft approached, the birds went quiet and stopped
-calling to each other, and adolescent birds that were not associated
-with nests began walking away from the noise. Pure animal instinct,
-really."
-	The conclusion, said Dr. Stone, is that flights over 305 metres
-(1,000 feet) caused "only minor and transitory ecological effects" on
-king penguins.]
-~~~~~
-The duck hunter trained his retriever to walk on water.  Eager to show
-off this amazing accomplishment, he asked a friend to go along on his
-next hunting trip.  Saying nothing, he fired his first shot and, as the
-duck fell, the dog walked on the surface of the water, retrieved the
-duck and returned it to his master.
-	"Notice anything?" the owner asked eagerly.
-	"Yes," said his friend, "I see that fool dog of yours can't swim."
-~~~~~
 Eat, drink, and be merry, for tomorrow they may make it illegal.
 ~~~~~
 The Killer Ducks are coming!!!
-~~~~~
-I'll carry your books, I'll carry a tune, I'll carry on, carry over,
-carry forward, Cary Grant, cash & carry, Carry Me Back To Old Virginia,
-I'll even Hara Kari if you show me how, but I will *not* carry a gun.
-		-- Hawkeye, M*A*S*H
 ~~~~~
 SAGITTARIUS (Nov 22 - Dec 21)
 	You are optimistic and enthusiastic.  You have a reckless
@@ -1841,28 +1114,11 @@ Rules for Academic Deans:
 	(2)  If they find you, LIE!!!!
 		-- Father Damian C. Fandal
 ~~~~~
-The primary purpose of the DATA statement is to give names to
-constants; instead of referring to pi as 3.141592653589793 at every
-appearance, the variable PI can be given that value with a DATA
-statement and used instead of the longer form of the constant.  This
-also simplifies modifying the program, should the value of pi change.
-		-- FORTRAN manual for Xerox Computers
-~~~~~
 A dozen, a gross, and a score,
 Plus three times the square root of four,
 	Divided by seven,
 	Plus five times eleven,
 Equals nine squared plus zero, no more.
-~~~~~
-My love, he's mad, and my love, he's fleet,
-	And a wild young wood-thing bore him!
-The ways are fair to his roaming feet,
-	And the skies are sunlit for him.
-As sharply sweet to my heart he seems
-	As the fragrance of acacia.
-My own dear love, he is all my dreams --
-	And I wish he were in Asia.
-		-- Dorothy Parker
 ~~~~~
 "The Schizophrenic: An Unauthorized Autobiography"
 ~~~~~
@@ -1872,11 +1128,6 @@ modify the problem, not the remedy.
 Scientists are people who build the Brooklyn Bridge and then buy it.
 		-- William Buckley
 
-~~~~~
-Professor Gorden Newell threw another shutout in last week's Chem.
-Eng.  130 midterm.  Once again no student received a single point on
-his exam.  Newell has now tossed five shutouts this quarter.  Newell's
-earned exam average has now dropped to a phenomenal 30%
 ~~~~~
 Hartley's First Law:
 	You can lead a horse to water, but if you can get him to float
@@ -1900,17 +1151,8 @@ simply sent champagne and women over to your place by taxi.
 ~~~~~
 Today is the tomorrow you worried about yesterday.
 ~~~~~
-Fortune's Real-Life Courtroom Quote #3:
-
-Q:  When he went, had you gone and had she, if she wanted to and were
-    able, for the time being excluding all the restraints on her not to
-    go, gone also, would he have brought you, meaning you and she, with
-    him to the station?
-MR. BROOKS:  Objection.  That question should be taken out and shot.
 ~~~~~
 Quick, sing me the BUDAPEST NATIONAL ANTHEM!!
-~~~~~
-There *__is* intelligent life on Earth, but I leave for Texas on Monday.
 ~~~~~
 Let me assure you that to us here at First National, you're not just a
 number.  You're two numbers, a dash, three more numbers, another dash
@@ -1928,17 +1170,6 @@ one which cannot be justified on any other grounds.
 Is it possible that software is not like anything else, that it is
 meant to be discarded: that the whole point is to always see it as a
 soap bubble?
-~~~~~
-Once again, we come to the Holiday Season, a deeply religious time that
-each of us observes, in his own way, by going to the mall of his
-choice.
-
-In the old days, it was not called the Holiday Season; the Christians
-called it "Christmas" and went to church; the Jews called it "Hanukka"
-and went to synagogue; the atheists went to parties and drank.  People
-passing each other on the street would say "Merry Christmas!" or "Happy
-Hanukka!" or (to the atheists) "Look out for the wall!"
-		-- Dave Barry, "Christmas Shopping: A Survivor's Guide"
 ~~~~~
 Living on Earth may be expensive, but it includes an annual free trip
 around the Sun.
@@ -1963,25 +1194,6 @@ To YOU I'm an atheist; to God, I'm the Loyal Opposition.
 conventional thing to happen to him."
 		-- John Barrymore's dying words
 ~~~~~
-Extract from Official Sweepstakes Rules:
-
-		NO PURCHASE REQUIRED TO CLAIM YOUR PRIZE
-
-To claim your prize without purchase, do the following: (a) Carefully
-cut out your computer-printed name and address from upper right hand
-corner of the Prize Claim Form. (b) Affix computer-printed name and
-address -- with glue or cellophane tape (no staples or paper clips) --
-to a 3x5 inch index card.  (c) Also cut out the "No" paragraph (lower
-left hand corner of Prize Claim Form) and affix it to the 3x5 card
-below your address label. (d) Then print on your 3x5 card, above your
-computer-printed name and address the words "CARTER & VAN PEEL
-SWEEPSTAKES" (Use all capital letters.)  (e) Finally place 3x5 card
-(without bending) into a plain envelope [NOTE: do NOT use the
-Official Prize Claim and CVP Perfume Reply Envelope or you may be
-disqualified], and mail to: CVP, Box 1320, Westbury, NY 11595.  Print
-this address correctly.  Comply with above instructions carefully and
-completely or you may be disqualified from receiving your prize.
-~~~~~
 A total abstainer is one who abstains from everything but abstention,
 and especially from inactivity in the affairs of others.
 		-- Ambrose Bierce, "The Devil's Dictionary"
@@ -1997,36 +1209,7 @@ Money is the root of all evil, and man needs roots.
 ~~~~~
 Things will be bright in P.M.  A cop will shine a light in your face.
 ~~~~~
-Men's skin is different from women's skin.  It is usually bigger, and
-it has more snakes tattooed on it.  Also, if you examine a woman's skin
-very closely, inch by inch, starting at her shapely ankles, then gently
-tracing the slender curve of her calves, then moving up to her ...
-	[EDITOR'S NOTE: To make room for news articles about important
-	 world events such as agriculture, we're going to delete the
-	 next few square feet of the woman's skin.  Thank you.]
-... until finally the two of you are lying there, spent, smoking your
-cigarettes, and suddenly it hits you: Human skin is actually made up of
-billions of tiny units of protoplasm, called "cells"!  And what is even
-more interesting, the ones on the outside are all dying!  This is a
-fact.  Your skin is like an aggressive modern corporation, where the
-older veteran cells, who have finally worked their way to the top and
-obtained offices with nice views, are constantly being shoved out the
-window head first, without so much as a pension plan, by younger
-hotshot cells moving up from below.
-		-- Dave Barry, "Saving Face"
-~~~~~
 Non-sequiturs make me eat lampshades.
-~~~~~
-Once again, we come to the Holiday Season, a deeply religious time that
-each of us observes, in his own way, by going to the mall of his
-choice.
-
-In the old days, it was not called the Holiday Season; the Christians
-called it "Christmas" and went to church; the Jews called it "Hanukka"
-and went to synagogue; the atheists went to parties and drank.  People
-passing each other on the street would say "Merry Christmas!" or "Happy
-Hanukka!" or (to the atheists) "Look out for the wall!"
-		-- Dave Barry, "Christmas Shopping: A Survivor's Guide"
 ~~~~~
 If you didn't get caught, did you really do it?
 ~~~~~
@@ -2046,11 +1229,6 @@ Waiter: "Tea or coffee, gentlemen?"
 	(Waiter exits, returns)
 Waiter: "Two teas.  Which one asked for the clean glass?"
 ~~~~~
-More than any time in history, mankind now faces a crossroads.  One
-path leads to despair and utter hopelessness, the other to total
-extinction.  Let us pray that we have the wisdom to choose correctly.
-		-- Woody Allen, "Side Effects"
-~~~~~
 Ask not for whom the telephone bell tolls ... if thou art in the
 bathtub, it tolls for thee.
 ~~~~~
@@ -2059,37 +1237,10 @@ hand, if he were already in, I don't think they'd let him out.
 ~~~~~
 Familiarity breeds attempt.
 ~~~~~
-Ah, but the choice of dreams to live,
-there's the rub.
-
-For all dreams are not equal,
-some exit to nightmare
-most end with the dreamer
-
-But at least one must be lived ... and died.
-~~~~~
 "Would you tell me, please, which way I ought to go from here?"
 
 "That depends a good deal on where you want to get to," said the Cat.
 		-- Lewis Carroll
-~~~~~
-	A master was explaining the nature of Tao to one of his
-novices.  "The Tao is embodied in all software -- regardless of how
-insignificant," said the master.
-
-	"Is Tao in a hand-held calculator?" asked the novice.
-
-	"It is," came the reply.
-
-	"Is the Tao in a video game?" continued the novice.
-
-	"It is even in a video game," said the master.
-
-	"And is the Tao in the DOS for a personal computer?"
-
-	The master coughed and shifted his position slightly.  "The
-lesson is over for today," he said.
-		-- "The Tao of Programming"
 ~~~~~
 Expect the worst.  It's the least you can do.
 ~~~~~
@@ -2102,12 +1253,6 @@ Chicken Soup, n.:
 	cocaine, interferon, and TLC.  The only ailment chicken soup
 	can't cure is neurotic dependence on one's mother.
 		-- Arthur Naiman, "Every Goy's Guide to Yiddish"
-~~~~~
-Q:  How many existentialists does it take to screw in a lightbulb?
-A:  Two.  One to screw it in and one to observe how the lightbulb
-    itself symbolizes a single incandescent beacon of subjective
-    reality in a netherworld of endless absurdity reaching out toward a
-    maudlin cosmos of nothingness.
 ~~~~~
 If you're going to do something tonight that you'll be sorry for
 tomorrow morning, sleep late.
@@ -2175,16 +1320,6 @@ A:  All my autopsies have been performed on dead people.
 It was a virgin forest, a place where the Hand of Man had never set
 foot.
 ~~~~~
-"You are old," said the youth, "and I'm told by my peers
-	That your lectures bore people to death.
-Yet you talk at one hundred conventions per year --
-	Don't you think that you should save your breath?"
-
-"I have answered three questions and that is enough,"
-	Said his father, "Don't give yourself airs!
-Do you think I can listen all day to such stuff?
-	Be off, or I'll kick you downstairs!"
-~~~~~
 My pen is at the bottom of a page,
 Which, being finished, here the story ends;
 'Tis to be wished it had been sooner done,
@@ -2203,24 +1338,6 @@ That no-one ever reads these things?
 Good night to spend with family, but avoid arguments with your mate's
 new lover.
 ~~~~~
-Andrea: Unhappy the land that has no heroes.
-Galileo: No, unhappy the land that _____needs heroes.
-		-- Bertolt Brecht, "Life of Galileo"
-~~~~~
-This is the first numerical problem I ever did.  It demonstrates the
-power of computers:
-
-Enter lots of data on calorie & nutritive content of foods.  Instruct
-the thing to maximize a function describing nutritive content, with a
-minimum level of each component, for fixed caloric content.  The
-results are that one should eat each day:
-
-	1/2 chicken
-	1 egg
-	1 glass of skim milk
-	27 heads of lettuce.
-		-- Rev. Adrian Melott
-~~~~~
 Your lucky color has faded.
 ~~~~~
 Ah say, son, you're about as sharp as a bowlin' ball.
@@ -2238,56 +1355,10 @@ Monday, n.:
 "Microwave oven?  Whaddya mean, it's a microwave oven?  I've been
 watching Channel 4 on the thing for two weeks."
 ~~~~~
-Eggnog is a traditional holiday drink invented by the English.  Many
-people wonder where the word "eggnog" comes from.  The first syllable
-comes from the English word "egg", meaning "egg".  I don't know where
-the "nog" comes from.
-
-To make eggnog, you'll need rum, whiskey, wine, gin and, if they are in
-season, eggs...
-~~~~~
-	"... The name of the song is called `Haddocks' Eyes'!"
-	"Oh, that's the name of the song, is it?" Alice said, trying to
-feel interested.
-	"No, you don't understand," the Knight said, looking a little
-vexed.  "That's what the name is called.  The name really is, `The Aged
-Aged Man.'"
-	"Then I ought to have said "That's what the song is called'?"
-Alice corrected herself.
-	"No, you oughtn't:  that's quite another thing!  The song is
-called `Ways and Means':  but that's only what it is called you know!"
-	"Well, what is the song then?" said Alice, who was by this time
-completely bewildered.
-	"I was coming to that," the Knight said.  "The song really is
-"A-sitting on a Gate":  and the tune's my own invention."
-		-- Lewis Carroll, "Through the Looking Glass"
-~~~~~
 After a number of decimal places, nobody gives a damn.
 ~~~~~
 Real programmers don't comment their code.  It was hard to write, it
 should be hard to understand.
-~~~~~
-	You will remember, Watson, how the dreadful business of the
-Abernetty family was first brought to my notice by the depth which the
-parsley had sunk into the butter upon a hot day.
-		-- Sherlock Holmes
-~~~~~
-'Twas midnight, and the UNIX hacks
-Did gyre and gimble in their cave
-All mimsy was the CS-VAX
-And Cory raths outgrabe.
-
-"Beware the software rot, my son!
-The faults that bite, the jobs that thrash!
-Beware the broken pipe, and shun
-The frumious system crash!"
-~~~~~
-
-	*** System shutdown message from root ***
-
-System going down in 60 seconds
-
-
 ~~~~~
 "A raccoon tangled with a 23,000 volt line today.  The results blacked
 out 1400 homes and, of course, one raccoon."
@@ -2316,23 +1387,11 @@ Kerr's Three Rules for a Successful College:
 	Have plenty of football for the alumni, sex for the students,
 and parking for the faculty.
 ~~~~~
-I appreciate the fact that this draft was done in haste, but some of
-the sentences that you are sending out in the world to do your work for
-you are loitering in taverns or asleep beside the highway.
-		-- Dr. Dwight Van de Vate, Professor of Philosophy,
-		   University of Tennessee at Knoxville
-~~~~~
 Money is better than poverty, if only for financial reasons.
 ~~~~~
 All bridge hands are equally likely, but some are more equally likely
 than others.
 		-- Alan Truscott
-~~~~~
-In Riemann, Hilbert or in Banach space
-Let superscripts and subscripts go their ways.
-Our asymptotes no longer out of phase,
-We shall encounter, counting, face to face.
-		-- Stanislaw Lem, "Cyberiad"
 ~~~~~
 Anything labeled "NEW" and/or "IMPROVED" isn't.  The label means the
 price went up.  The label "ALL NEW", "COMPLETELY NEW", or "GREAT NEW"
@@ -2350,14 +1409,6 @@ she's the equivalent of three fourteen-year-olds.'"
 		-- David Letterman
 ~~~~~
 The sum of the Universe is zero.
-~~~~~
-Dear Miss Manners:
-	Please list some tactful ways of removing a man's saliva from
-your face.
-
-Gentle Reader:
-	Please list some decent ways of acquiring a man's saliva on
-your face ...
 ~~~~~
 There are some micro-organisms that exhibit characteristics of both
 plants and animals.  When exposed to light they undergo photosynthesis;
@@ -2400,29 +1451,6 @@ NOBODY EXPECTS THE SPANISH INQUISITION.
 Call on God, but row away from the rocks.
 		-- Indian proverb
 ~~~~~
-	Once there lived a village of creatures along the bottom of a
-great crystal river.  Each creature in its own manner clung tightly to
-the twigs and rocks of the river bottom, for clinging was their way of
-life, and resisting the current what each had learned from birth.  But
-one creature said at last, "I trust that the current knows where it is
-going.  I shall let go, and let it take me where it will.  Clinging, I
-shall die of boredom."
-	The other creatures laughed and said, "Fool!  Let go, and that
-current you worship will throw you tumbled and smashed across the
-rocks, and you will die quicker than boredom!"
-	But the one heeded them not, and taking a breath did let go,
-and at once was tumbled and smashed by the current across the rocks.
-Yet, in time, as the creature refused to cling again, the current
-lifted him free from the bottom, and he was bruised and hurt no more.
-	And the creatures downstream, to whom he was a stranger, cried,
-"See a miracle!  A creature like ourselves, yet he flies!  See the
-Messiah, come to save us all!"  And the one carried in the current
-said, "I am no more Messiah than you.  The river delight to lift us
-free, if only we dare let go.  Our true work is this voyage, this
-adventure.
-	But they cried the more, "Saviour!" all the while clinging to
-the rocks, making legends of a Saviour.
-~~~~~
 Too much of everything is just enough.
 		-- Bob Wier
 ~~~~~
@@ -2451,24 +1479,6 @@ computer, except perhaps a Correctness Verification Aid package.
 house and four people died."
 		-- Steven Wright
 ~~~~~
-"You are old," said the youth, "and your jaws are too weak
-	For anything tougher than suet;
-Yet you finished the goose, with the bones and the beak --
-	Pray, how did you manage to do it?"
-
-"In my youth," said his father, "I took to the law,
-	And argued each case with my wife;
-And the muscular strength which it gave to my jaw,
-	Has lasted the rest of my life."
-		-- Lewis Carroll
-~~~~~
-The pitcher wound up and he flang the ball at the batter.  The batter
-swang and missed.  The pitcher flang the ball again and this time the
-batter connected.  He hit a high fly right to the center fielder.  The
-center fielder was all set to catch the ball, but at the last minute
-his eyes were blound by the sun and he dropped it.
-		-- Dizzy Dean
-~~~~~
 Why You Can't Run When There's Trouble in the Office:
 	No matter where you stand, no matter how far or fast you flee,
 when it hits the fan, as much as possible will be propelled in your
@@ -2491,15 +1501,6 @@ The first myth of management is that it exists.  The second myth of
 management is that success equals skill.
 		-- Robert Heller
 ~~~~~
-A famous Lisp Hacker noticed an Undergraduate sitting in front of a
-Xerox 1108, trying to edit a complex Klone network via a browser.
-Wanting to help, the Hacker clicked one of the nodes in the network
-with the mouse, and asked "what do you see?"  Very earnestly, the
-Undergraduate replied "I see a cursor."  The Hacker then quickly
-pressed the boot toggle at the back of the keyboard, while
-simultaneously hitting the Undergraduate over the head with a thick
-Interlisp Manual.  The Undergraduate was then Enlightened.
-~~~~~
 Information Center, n.:
 	A room staffed by professional computer people whose job it is
 	to tell you why you cannot have the information you require.
@@ -2513,27 +1514,6 @@ What nobody is sure about.
 Afternoon very favorable for romance.  Try a single person for a
 change.
 ~~~~~
-	Festivity Level 1: Your guests are chatting amiably with each
-other, admiring your Christmas-tree ornaments, singing carols around
-the upright piano, sipping at their drinks and nibbling hors
-d'oeuvres.
-	Festivity Level 2: Your guests are talking loudly -- sometimes
-to each other, and sometimes to nobody at all, rearranging your
-Christmas-tree ornaments, singing "I Gotta Be Me" around the upright
-piano, gulping their drinks and wolfing down hors d'oeuvres.
-	Festivity Level 3: Your guests are arguing violently with
-inanimate objects, singing "I can't get no satisfaction," gulping down
-other peoples' drinks, wolfing down Christmas tree ornaments and
-placing hors d'oeuvres in the upright piano to see what happens when
-the little hammers strike.
-	Festivity Level 4: Your guests, hors d'oeuvres smeared all over
-their naked bodies are performing a ritual dance around the burning
-Christmas tree.  The piano is missing.
-
-	You want to keep your party somewhere around level 3, unless
-you rent your home and own Firearms, in which case you can go to level
-4.  The best way to get to level 3 is egg-nog.
-~~~~~
 Finagle's Second Law:
 	No matter what the anticipated result, there will always be
 someone eager to (a) misinterpret it, (b) fake it, or (c) believe it
@@ -2541,8 +1521,6 @@ happened according to his own pet theory.
 ~~~~~
 Oregano, n.:
 	The ancient Italian art of pizza folding.
-~~~~~
-Look out!  Behind you!
 ~~~~~
 A student, in hopes of understanding the Lambda-nature, came to
 Greenblatt.  As they spoke a Multics system hacker walked by.  "Is it
@@ -2579,24 +1557,6 @@ buttered on.
 ~~~~~
 God is a polytheist.
 ~~~~~
-I went on to test the program in every way I could devise.  I strained
-it to expose its weaknesses.  I ran it for high-mass stars and low-mass
-stars, for stars born exceedingly hot and those born relatively cold.
-I ran it assuming the superfluid currents beneath the crust to be
-absent -- not because I wanted to know the answer, but because I had
-developed an intuitive feel for the answer in this particular case.
-Finally I got a run in which the computer showed the pulsar's
-temperature to be less than absolute zero.  I had found an error.  I
-chased down the error and fixed it.  Now I had improved the program to
-the point where it would not run at all.
-		-- George Greenstein, "Frozen Star: Of Pulsars, Black
-		   Holes and the Fate of Stars"
-~~~~~
-The geographical center of Boston is in Roxbury.  Due north of the
-center we find the South End.  This is not to be confused with South
-Boston which lies directly east from the South End.  North of the South
-End is East Boston and southwest of East Boston is the North End.
-~~~~~
 If you don't go to other men's funerals they won't go to yours.
 		-- Clarence Day
 ~~~~~
@@ -2624,10 +1584,6 @@ people who don't understand, who have not gotten in there and tried
 anything.
 		-- Jim Joyce, owner of Jim Joyce's UNIX Bookstore
 ~~~~~
-"The subspace _W inherits the other 8 properties of _V. And there aren't
-even any property taxes."
-		-- J. MacKay, Mathematics 134b
-~~~~~
 "It's a summons."
 "What's a summons?"
 "It means summon's in trouble."
@@ -2652,15 +1608,6 @@ I'm returning this note to you, instead of your paper, because it
 The human mind ordinarily operates at only ten percent of
 its capacity -- the rest is overhead for the operating system.
 ~~~~~
-As you reach for the web, a venomous spider appears.  Unable to pull
-your hand away in time, the spider promptly, but politely, bites you.
-The venom takes affect quickly causing your lips to turn plaid along
-with your complexion.  You become dazed, and in your stupor you fall
-from the limbs of the tree.  Snap!  Your head falls off and rolls all
-over the ground.  The instant before you croak, you hear the whoosh of
-a vacuum being filled by the air surrounding your head.  Worse yet, the
-spider is suing you for damages.
-~~~~~
 A little inaccuracy sometimes saves tons of explanation.
 		-- H. H. Munroe, "Saki"
 ~~~~~
@@ -2682,24 +1629,6 @@ Q:  How many mathematicians does it take to screw in a lightbulb?
 A:  One.  He gives it to six Californians, thereby reducing the problem
     to the earlier joke.
 ~~~~~
-We ought to be very grateful that we have tools.  Millions of years ago
-people did not have them, and home projects were extremely difficult.
-For example, when a primitive person wanted to put up paneling, he had
-to drive the little paneling nails into the cave wall with his bare
-fist, so generally the paneling wound up getting spattered with
-primitive blood, which isn't really all that bad when you consider how
-ugly paneling is to begin with.
-		-- Dave Barry, "The Taming of the Screw"
-~~~~~
-What we need in this country, instead of Daylight Savings Time, which
-nobody really understands anyway, is a new concept called Weekday
-Morning Time, whereby at 7 a.m. every weekday we go into a space-
-launch-style "hold" for two to three hours, during which it just
-remains 7 a.m.  This way we could all wake up via a civilized gradual
-process of stretching and belching and scratching, and it would still
-be only 7 a.m. when we were ready to actually emerge from bed.
-		-- Dave Barry, "$#$%#^%!^%&@%@!"
-~~~~~
 You'll never be the man your mother was!
 ~~~~~
 Croll's Query:
@@ -2715,29 +1644,9 @@ It makes sense, when you don't think about it.
 ~~~~~
 Eat, drink, and be merry, for tomorrow you may work.
 ~~~~~
-Cecil, you're my final hope
-Of finding out the true Straight Dope
-For I have been reading of Schrodinger's cat
-But none of my cats are at all like that.
-This unusual animal (so it is said)
-Is simultaneously alive and dead!
-What I don't understand is just why he
-Can't be one or the other, unquestionably.
-My future now hangs in between eigenstates.
-In one I'm enlightened, in the other I ain't.
-If *you* understand, Cecil, then show me the way
-And rescue my psyche from quantum decay.
-But if this queer thing has perplexed even you,
-Then I will *___and* I won't see you in Schrodinger's zoo.
-		-- Randy F., Chicago, "The Straight Dope, a compendium
-		   of human knowledge" by Cecil Adams
-~~~~~
 Have you reconsidered a computer career?
 ~~~~~
 It's illegal in Wilbur, Washington, to ride an ugly horse.
-~~~~~
-We don't understand the software, and sometimes we don't understand the
-hardware, but we can *___see* the blinking lights!
 ~~~~~
 Razors pain you;
 Rivers are damp;
@@ -2750,14 +1659,6 @@ You might as well live.
 		-- Dorothy Parker, "Resume", 1926
 ~~~~~
 Stay away from flying saucers today.
-~~~~~
-There are those who claim that magic is like the tide; that it swells
-and fades over the surface of the earth, collecting in concentrated
-pools here and there, almost disappearing from other spots, leaving
-them parched for wonder.  There are also those who believe that if you
-stick your fingers up your nose and blow, it will increase your
-intelligence.
-		-- The Teachings of Ebenezum, Volume VII
 ~~~~~
 Preudhomme's Law of Window Cleaning:
 	It's on the other side.
@@ -2805,23 +1706,8 @@ Pecor's Health-Food Principle:
 Hollywood is where if you don't have happiness you send out for it.
 		-- Rex Reed
 ~~~~~
-Did you know that the voice tapes easily identify the Russian pilot
-that shot down the Korean jet?  At one point he definitely states:
-
-	"Natasha!  First we shoot jet, then we go after moose and
-	squirrel."
-
-		-- ihuxw!tommyo
-~~~~~
 Be careful of reading health books.  You might die of a misprint.
 		-- Mark Twain
-~~~~~
-Several years ago, some smart businessmen had an idea: Why not build a
-big store where a do-it-yourselfer could get everything he needed at
-reasonable prices?  Then they decided, nah, the hell with that, let's
-build a home center.  And before long home centers were springing up
-like crabgrass all over the United States.
-		-- Dave Barry, "The Taming of the Screw"
 ~~~~~
 Q:  How many Oregonians does it take to screw in a light bulb?
 A:  Three.  One to screw in the lightbulb and two to fend off all those
@@ -2830,12 +1716,6 @@ A:  Three.  One to screw in the lightbulb and two to fend off all those
 I was gratified to be able to answer promptly, and I did.  I said I
 didn't know.
 		-- Mark Twain
-~~~~~
-Termiter's argument that God is His own grandmother generated a surprising
-amount of controversy among Church leaders, who on the one hand considered
-the argument unsupported by scripture but on the other hand were unwilling
-to risk offending God's grandmother.
-		-- Len Cool, "American Pie"
 ~~~~~
 A copy of the universe is not what is required of art; one of the
 damned things is ample.
@@ -2941,21 +1821,7 @@ The opposite of a profound truth may well be another profound truth.
 ~~~~~
 Speak softly and carry a +6 two-handed sword.
 ~~~~~
-"I don't think so," said Ren'e Descartes.  Just then, he vanished.
-~~~~~
 Put no trust in cryptic comments.
-~~~~~
-Friends, Romans, Hipsters,
-Let me clue you in;
-I come to put down Caesar, not to groove him.
-The square kicks some cats are on stay with them;
-The hip bits, like, go down under; so let it lay with Caesar.  The cool Brutus
-Gave you the message: Caesar had big eyes;
-If that's the sound, someone's copping a plea,
-And, like, old Caesar really set them straight.
-Here, copacetic with Brutus and the studs, -- for Brutus is a real cool cat;
-So are they all, all cool cats, --
-Come I to make this gig at Caesar's laying down.
 ~~~~~
 A jury consists of 12 persons chosen to decide who has the better lawyer.
 		-- Robert Frost
@@ -2964,29 +1830,10 @@ I used to think that the brain was the most wonderful organ in my
 body.  Then I realized who was telling me this.
 		-- Emo Phillips
 ~~~~~
-The society which scorns excellence in plumbing as a humble activity
-and tolerates shoddiness in philosophy because it is an exalted
-activity will have neither good plumbing nor good philosophy ...
-neither its pipes nor its theories will hold water.
-~~~~~
 Beware of the Turing Tar-pit in which everything is possible but
 nothing of interest is easy.
 ~~~~~
 Mother told me to be good, but she's been wrong before.
-~~~~~
-The basic menu item, in fact the ONLY menu item, would be a food unit
-called the "patty," consisting of -- this would be guaranteed in
-writing -- "100 percent animal matter of some kind."  All patties would
-be heated up and then cooled back down in electronic devices
-immediately before serving.  The Breakfast Patty would be a patty on a
-bun with lettuce, tomato, onion, egg, Ba-Ko-Bits, Cheez Whiz, a Special
-Sauce made by pouring ketchup out of a bottle and a little slip of
-paper stating: "Inspected by Number 12".  The Lunch or Dinner Patty
-would be any Breakfast Patties that didn't get sold in the morning.
-The Seafood Lover's Patty would be any patties that were starting to
-emit a serious aroma.  Patties that were too rank even to be Seafood
-Lover's Patties would be compressed into wads and sold as "Nuggets."
-		-- Dave Barry, "'Mister Mediocre' Restaurants"
 ~~~~~
 What does it mean if there is no fortune for you?
 ~~~~~
@@ -2996,42 +1843,10 @@ All through the day how the hours rush by,
 	You sit in the park and you watch the grass die.
 		-- John Denver, "Saturday Night in Toledo Ohio"
 ~~~~~
-It happened that a fire broke out backstage in a theater.  The clown
-came out to inform the public.  They thought it was just a jest and
-applauded.  He repeated his warning, they shouted even louder.  So I
-think the world will come to an end amid general applause from all the
-wits, who believe that it is a joke.
-~~~~~
 QUOTE OF THE DAY:
 
        `
 
-~~~~~
-To understand this important story, you have to understand how the
-telephone company works.  Your telephone is connected to a local
-computer, which is in turn connected to a regional computer, which is
-in turn connected to a loudspeaker the size of a garbage truck on the
-lawn of Edna A. Bargewater of Lawrence, Kan.
-
-Whenever you talk on the phone, your local computer listens in.  If it
-suspects you're going to discuss an intimate topic, it notifies the
-computer above it, which listens in and decides whether to alert the
-one above it, until finally, if you really humiliate yourself, maybe
-break down in tears and tell your closest friend about a sordid
-incident from your past involving a seedy motel, a neighbor's spouse,
-an entire religious order, a garden hose and six quarts of tapioca
-pudding, the top computer feeds your conversation into Edna's
-loudspeaker, and she and her friends come out on the porch to listen
-and drink gin and laugh themselves silly.
-		-- Dave Barry, "Won't It Be Just Great Owning Our Own
-		   Phones?"
-~~~~~
-LIBRA (Sept 23 - Oct 22)
-	You are the artistic type and have a difficult time with
-	reality.  If you are a man, you are more than likely gay.
-	Chances for employment and monetary gains are excellent.  Most
-	Libra women are prostitutes.  All Libra people die of venereal
-	disease.
 ~~~~~
 There are three principal ways to lose money: wine, women, and
 engineers.  While the first two are more pleasant, the third is by far
@@ -3066,23 +1881,6 @@ Any two philosophers can tell each other all they know in two hours.
 Truthful, adj.:
 	Dumb and illiterate.
 		-- Ambrose Bierce, "The Devil's Dictionary"
-~~~~~
-Finish the sentence below in 25 words or less:
-
-	"Love is what you feel just before you give someone a good ..."
-
-Mail your answer along with the top half of your supervisor to:
-
-	P.O. Box 35
-	Baffled Greek, Michigan
-~~~~~
-Eggnog is a traditional holiday drink invented by the English.  Many
-people wonder where the word "eggnog" comes from.  The first syllable
-comes from the English word "egg", meaning "egg".  I don't know where
-the "nog" comes from.
-
-To make eggnog, you'll need rum, whiskey, wine, gin and, if they are in
-season, eggs...
 ~~~~~
 Captain Penny's Law:
 	You can fool all of the people some of the time, and some of
@@ -3132,26 +1930,6 @@ H. L. Mencken's Law:
 Martin's Extension:
 	Those who cannot teach -- administrate.
 ~~~~~
-Slick's Three Laws of the Universe:
-	(1) Nothing in the known universe travels faster than a bad
-	    check.
-	(2) A quarter-ounce of chocolate = four pounds of fat.
-	(3) There are two types of dirt: the dark kind, which is
-	    attracted to light objects, and the light kind, which is
-	    attracted to dark objects.
-~~~~~
-Legislation proposed in the Illinois State Legislature, May, 1907:
-	Speed upon county roads will be limited to ten miles an hour
-unless the motorist sees a bailiff who does not appear to have had a
-drink in 30 days, when the driver will be permitted to make what he
-can.
-~~~~~
-I see the eigenvalue in thine eye,
-I hear the tender tensor in thy sigh.
-Bernoulli would have been content to die
-Had he but known such _a-squared cos 2(phi)!
-		-- Stanislaw Lem, "Cyberiad"
-~~~~~
 Westheimer's Discovery:
 	A couple of months in the laboratory can frequently save a
 	couple of hours in the library.
@@ -3160,14 +1938,6 @@ It is better never to have been born.  But who among us has such luck?
 One in a million, perhaps.
 ~~~~~
 People will buy anything that's one to a customer.
-~~~~~
-I cannot overemphasize the importance of good grammar.
-
-What a crock.  I could easily overemphasize the importance of good
-grammar.  For example, I could say: "Bad grammar is the leading cause
-of slow, painful death in North America," or "Without good grammar, the
-United States would have lost World War II."
-		-- Dave Barry, "An Utterly Absurd Look at Grammar"
 ~~~~~
 The way to make a small fortune in the commodities market is to start
 with a large fortune.
@@ -3191,45 +1961,10 @@ dimension strictly exceeds the topological dimension."
 ~~~~~
 Kiss your keyboard goodbye!
 ~~~~~
-Well, my terminal's locked up, and I ain't got any Mail,
-	And I can't recall the last time that my program didn't fail;
-I've got stacks in my structs, I've got arrays in my queues,
-	I've got the : Segmentation violation -- Core dumped blues.
-
-If you think that it's nice that you get what you C,
-	Then go : illogical statement with your whole family,
-'Cause the Supreme Court ain't the only place with : Bus error views.
-	I've got the : Segmentation violation -- Core dumped blues.
-
-On a PDP-11, life should be a breeze,
-	But with VAXen in the house even magnetic tapes would freeze.
-Now you might think that unlike VAXen I'd know who I abuse,
-	I've got the : Segmentation violation -- Core dumped blues.
-		-- Core Dumped Blues
-~~~~~
 Your lucky color has faded.
 ~~~~~
 The District of Columbia has a law forbidding you to exert pressure on
 a balloon and thereby cause a whistling sound on the streets.
-~~~~~
-better !pout !cry
-better watchout
-lpr why
-santa claus < north pole > town
-
-cat /etc/passwd > list
-ncheck list
-ncheck list
-cat list | grep naughty > nogiftlist
-cat list | grep nice > giftlist
-santa claus < north pole > town
-
-who | grep sleeping
-who | grep awake
-who | egrep 'bad|good'
-for (goodness sake) {
-	be good
-}
 ~~~~~
 Anyone who cannot cope with mathematics is not fully human.  At best he
 is a tolerable subhuman who has learned to wear shoes, bathe and not
@@ -3303,12 +2038,6 @@ challenge roughly comparable to herding cats.
 A language that doesn't affect the way you think about programming is
 not worth knowing.
 ~~~~~
-Impartial, adj.:
-	Unable to perceive any promise of personal advantage from
-	espousing either side of a controversy or adopting either of two
-	conflicting opinions.
-		-- Ambrose Bierce, "The Devil's Dictionary"
-~~~~~
 The soul would have no rainbow had the eyes no tears.
 ~~~~~
 Wethern's Law:
@@ -3333,4 +2062,3 @@ Patageometry, n.:
 I'm returning this note to you, instead of your paper, because it
 (your paper) presently occupies the bottom of my bird cage.
 		-- English Professor, Providence College
-~~~~~
