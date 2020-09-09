@@ -15,6 +15,7 @@
     "url": "https://github.tools.sap/cloud-curriculum/exercise-code-nodejs.git"
   },
   "dependencies": {
+    "cfenv": "^1.2.3",
     "db-migrate": "^0.11.11",
     "db-migrate-pg": "^1.2.2",
     "express": "^4.17.1",

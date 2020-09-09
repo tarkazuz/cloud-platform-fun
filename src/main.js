@@ -2,8 +2,15 @@
 
 const createApp = require('./app');
 const FortuneCookieService = require('./fortune-cookie-service');
+const cfenv = require('cfenv');
 
-//TODO get URI from environment instead
-const uri = 'postgres://postgres@localhost/postgres';
+const creds = cfenv.getAppEnv().getServiceCreds('test-db');
+const config = {
+    connectionString: creds.uri,
+    ssl: {
+        cert: creds.sslcert,
+        ca: creds.sslrootcert
+    }
+};
 
-createApp(new FortuneCookieService(uri)).listen(process.env.PORT || 3000);
+createApp(new FortuneCookieService(config)).listen(process.env.PORT || 3000);
