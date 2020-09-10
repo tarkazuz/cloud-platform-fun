@@ -8,7 +8,10 @@ class FortuneCookieService {
     constructor(config) {
         this.pool = new Pool(config);
         const migrateCfg = { env: 'default', config: { default: { driver: 'pg', ...config } } };
-        this.ready = DBMigrate.getInstance(true, migrateCfg).up()
+        this.ready = DBMigrate.getInstance(true, migrateCfg).up().catch(error => {
+            console.log('Failed to run migration: ' + error);
+            process.exit(1);
+       });
     }
 
     async quote() {
