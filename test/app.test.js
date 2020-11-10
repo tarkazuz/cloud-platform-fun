@@ -10,11 +10,13 @@ describe('fortune cookie app', function () {
     it('responds with a random quote on root URL', async function () {
         this.timeout(5000);
 
-        const service = new FortuneCookieService('postgres://postgres@localhost/postgres');
+        const service = new FortuneCookieService({
+            connectionString: 'postgres://postgres@localhost/postgres'
+        });
         try {
             const client = supertest(createApp(service));
             const response = await client.get('/').expect(200).expect('content-type', /text\/plain/);
-            assert.notEqual(response.text, '');
+            assert.notStrictEqual(response.text, '');
         } finally {
             await service.stop();
         }
