@@ -1,0 +1,9 @@
+{
+  "env": "default",
+  "default": {
+    "driver": "pg",
+    "connectionString": {
+      "ENV": "PG_CONNECTION_STRING"
+    }
+  }
+}

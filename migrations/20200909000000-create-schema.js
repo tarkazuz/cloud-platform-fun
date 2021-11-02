@@ -1,7 +1,7 @@
-exports.up = function (db, callback) {
-    db.runSql('CREATE TABLE "fortunes" ("quote" TEXT)', callback);
-};
+exports.up = async function (db) {
+  await db.runSql('CREATE TABLE "fortunes" ("quote" TEXT)')
+}
 
-exports.down = function (db, callback) {
-    db.runSql('DROP TABLE "fortunes"', callback);
-};
+exports.down = async function (db) {
+  await db.runSql('DROP TABLE "fortunes"')
+}
