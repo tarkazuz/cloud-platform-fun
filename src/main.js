@@ -2,7 +2,7 @@ const connectionPool = require('./connection-pool')
 const application = require('./application')
 const FortuneCookieService = require('./fortune-cookie-service')
 
-const { env: { PORT: port = 3000, PG_CONNECTION_STRING: connectionString } } = process
+const { postgres: { connectionString }, app: { port } } = require('./config')
 
 const pool = connectionPool({ connectionString })
 

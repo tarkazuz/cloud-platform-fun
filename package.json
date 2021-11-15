@@ -3,24 +3,24 @@
   "version": "1.0.0",
   "description": "This repository contains the code / starting points that match the topics in the [material repository](https://github.tools.sap/cloud-curriculum/material).",
   "scripts": {
-    "prestart": "npm run db:migrate-up",
-    "start": "node -r dotenv/config src/main.js",
-    "prewatch": "npm run db:migrate-up",
-    "watch": "npx nodemon -r dotenv/config src/main.js",
-    "pretest": "npm run db:migrate-up",
-    "test": "npx mocha -r dotenv/config",
-    "db:start": "docker run -e POSTGRES_HOST_AUTH_METHOD=trust -p 5432:5432 postgres:11-alpine",
-    "db:migrate-up": "npx db-migrate up --config migrations/database.json",
-    "db:migrate-down": "npx db-migrate down --config migrations/database.json"
+    "prestart": "npm run db-migrate-up",
+    "start": "node src/main.js",
+    "prewatch": "npm run db-migrate-up",
+    "watch": "npx nodemon src/main.js",
+    "pretest": "npm run db-migrate-up",
+    "test": "npx mocha",
+    "db-start": "docker run -e POSTGRES_HOST_AUTH_METHOD=trust -p 5432:5432 postgres:11-alpine",
+    "db-migrate-up": "node src/migrate.js up",
+    "db-migrate-down": "node src/migrate.js down"
   },
   "repository": {
     "type": "git",
     "url": "https://github.tools.sap/cloud-curriculum/exercise-code-nodejs.git"
   },
   "dependencies": {
+    "cfenv": "^1.2.4",
     "db-migrate": "^0.11.11",
     "db-migrate-pg": "^1.2.2",
-    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "pg": "^8.3.3"
   },
