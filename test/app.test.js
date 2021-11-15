@@ -5,13 +5,14 @@ const connectionPool = require('../src/connection-pool')
 const application = require('../src/application')
 const FortuneCookieService = require('../src/fortune-cookie-service')
 
+const { postgres: { connectionString } } = require('../src/config')
+
 describe('fortune cookie app', function () {
   let pool = null
 
   let client = null
 
   before(function () {
-    const { env: { PG_CONNECTION_STRING: connectionString } } = process
     pool = connectionPool({
       connectionString
     })
