@@ -1,6 +1,6 @@
 const { promises: fs } = require('fs')
 
-exports.up = async function (db) {
+exports.up = async (db) => {
   // REVISE a nice optimization might be to pipe the data using COPY FROM STDIN - main challenge are special chars in the quotes like single quote and newline
   const content = await fs.readFile('migrations/fortunes.txt')
 
@@ -9,6 +9,6 @@ exports.up = async function (db) {
   await Promise.all(quotes.map(quote => db.runSql('INSERT INTO "fortunes" ("quote") VALUES (?)', [quote])))
 }
 
-exports.down = async function (db) {
+exports.down = async (db) => {
   await db.runSql('DELETE FROM "fortunes"')
 }

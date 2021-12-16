@@ -8,4 +8,6 @@ This repository contains the code / starting points that match the topics in the
 - The master branch only contains a base project with following run scripts:
     - `npm start` starts the application
     - `npm run watch` starts the application and restarts it when file changes occur
+    - `npm run db:start` starts a local postgres docker container
     - `npm test` runs all tests
+    - `npm run lint` executes static code checks

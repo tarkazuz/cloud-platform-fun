@@ -1,7 +1,7 @@
-exports.up = async function (db) {
+exports.up = async (db) => {
   await db.runSql('CREATE TABLE "fortunes" ("quote" TEXT)')
 }
 
-exports.down = async function (db) {
+exports.down = async (db) => {
   await db.runSql('DROP TABLE "fortunes"')
 }
