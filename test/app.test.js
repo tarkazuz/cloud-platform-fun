@@ -6,7 +6,7 @@ import application from '../lib/application.js'
 import FortuneCookieService from '../lib/fortune-cookie-service.js'
 import config from '../lib/config.js'
 
-const {postgres: {connectionString}} = config
+const { postgres: { connectionString } } = config
 
 describe('fortune cookie app', () => {
   let pool = null

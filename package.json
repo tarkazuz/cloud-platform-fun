@@ -7,10 +7,10 @@
     "prestart": "npm run db:migrate:up",
     "start": "node lib/server.js",
     "prewatch": "npm run db:migrate:up",
-    "watch": "npx nodemon lib/server.js",
+    "watch": "nodemon lib/server.js",
     "pretest": "npm run db:migrate:up",
-    "test": "npx mocha",
-    "lint": "npx eslint",
+    "test": "mocha",
+    "lint": "eslint .",
     "db:start": "docker run -e POSTGRES_HOST_AUTH_METHOD=trust -p 5432:5432 postgres:11-alpine",
     "db:migrate:up": "node lib/migrate.js up",
     "db:migrate:down": "node lib/migrate.js down"
