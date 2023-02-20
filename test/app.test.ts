@@ -1,16 +1,17 @@
+import pg from 'pg'
 import assert from 'assert/strict'
 import supertest from 'supertest'
 
-import connectionPool from '../lib/connection-pool.js'
-import application from '../lib/application.js'
-import FortuneCookieService from '../lib/fortune-cookie-service.js'
-import config from '../lib/config.js'
+import connectionPool from '../src/lib/connection-pool.js'
+import application from '../src/lib/application.js'
+import FortuneCookieService from '../src/lib/fortune-cookie-service.js'
+import config from '../src/lib/config.js'
 
 const { postgres: { connectionString } } = config
 
 describe('fortune cookie app', () => {
-  let pool = null
-  let client = null
+  let pool: pg.Pool
+  let client: supertest.SuperTest<supertest.Test>
 
   before(() => {
     pool = connectionPool({

@@ -1,7 +1,7 @@
 import pg from 'pg'
 
-export default options => {
-  const pool = new pg.Pool(options)
+export default (config: pg.PoolConfig) => {
+  const pool = new pg.Pool(config)
 
   pool.on('connect', () => console.info('pool connected'))
   pool.on('remove', () => console.info('pool disconnected'))

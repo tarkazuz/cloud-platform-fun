@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-ignore
 import dbmigrate from 'db-migrate'
 import config from './config.js'
 
@@ -17,7 +19,7 @@ const migrate = async () => {
 
     await dbm[action](...args)
   } catch (error) {
-    console.error(error.stack)
+    console.error((error as Error).stack)
     process.exit(1)
   }
 }

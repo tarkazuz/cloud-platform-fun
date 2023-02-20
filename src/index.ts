@@ -1,7 +1,7 @@
-import connectionPool from './connection-pool.js'
-import application from './application.js'
-import FortuneCookieService from './fortune-cookie-service.js'
-import config from './config.js'
+import connectionPool from './lib/connection-pool.js'
+import application from './lib/application.js'
+import FortuneCookieService from './lib/fortune-cookie-service.js'
+import config from './lib/config.js'
 
 const { postgres, app: { port } } = config
 
@@ -13,4 +13,4 @@ const app = application(fortuneCookieService)
 
 app
   .listen(port, () => console.info(`app is listening on port ${port}`))
-  .on('error', ({ stack }) => console.error(stack))
+  .on('error', ({ stack }: Error) => console.error(stack))

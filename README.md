@@ -6,8 +6,9 @@ This repository contains the code / starting points that match the topics in the
 - Starting points are in separate branches, the branch name maps to the corresponding topics in the [material repository](https://github.tools.sap/cloud-curriculum/material), e.g. `logging-fundamentals`
 - The code for the starting point resides directly in the top-level directory of the corresponding branch
 - The master branch only contains a base project with following run scripts:
-    - `npm start` starts the application
-    - `npm run watch` starts the application and restarts it when file changes occur
+    - `npm run build` transpiles the Typescript code into .js code
+    - `npm start` starts the application (use `npm run build` before)
+    - `npm run start:dev` starts the application without transpilation step
     - `npm run db:start` starts a local postgres docker container
     - `npm test` runs all tests
     - `npm run lint` executes static code checks
